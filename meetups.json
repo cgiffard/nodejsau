@@ -31,6 +31,14 @@
    "description": "Sydney Node.js community",
    "location": "Sydney",
    "twitter": ""
+},
+{
+  "name": "CBRJS",
+  "logo": "http://cbrjs.org/logo.png",
+  "url":  "http://cbrjs.org/",
+  "description": "Canberra JavaScript",
+  "location": "Canberra",
+  "twitter": "cbrjs"
 }
 
 ]
